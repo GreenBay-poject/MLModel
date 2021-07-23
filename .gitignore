@@ -1,6 +1,2 @@
-train-jpg
-Loaded_Images_Tags.npz
-train.csv
-Final_Model.h5
-40000-NPZ
-Trained
+train-jpg/
+test-jpg/
